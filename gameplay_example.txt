@@ -1,0 +1,38 @@
+Welcome to Card Guessing Game Plus!
+
+Available card values (in order): 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King, Ace
+Available suits (in order): Clubs, Diamonds, Hearts, Spades
+
+A secret card has been randomly selected. Try to guess it!
+
+Guess the card [(2,Clubs) ~ (Ace,Spades)]: 9,Clubs
+Your guess is too low in value. 📉
+Your suit is correct! ✔️
+That guess was incorrect. (-10 points)
+
+Attempts remaining: 9
+Current score: 90
+
+Guess the card [(9,Clubs) ~ (Ace,Spades)]: Queen,Clubs
+Your guess is too high in value. 📈
+Your suit is correct! ✔️
+That guess was incorrect. (-10 points)
+
+Attempts remaining: 8
+Current score: 80
+
+Guess the card [(9,Clubs) ~ (Queen,Clubs)]: Jack,Clubs
+You got the value correct! Keep it up! 🎯
+But your suit is too low. You're close! 🔽
+That guess was incorrect. (-10 points)
+
+Attempts remaining: 7
+Current score: 70
+
+Guess the card [(Jack,Clubs) ~ (Queen,Clubs)]: Jack,Hearts
+You got the value correct! Keep it up! 🎯
+And you also got the suit correct! Amazing! 🎉
+
+Correct! You found the card in 4 attempts!
+Your score: 70
+Great job! 👍
