@@ -1,0 +1,8 @@
+Sample Guesses (Format: Value,Suit)
+
+1. 7,Clubs
+2. Queen,Hearts
+3. 10,Spades
+4. Ace,Diamonds
+5. 9,Hearts
+6. Jack,Spades
